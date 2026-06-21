@@ -25,3 +25,8 @@ A real-time finger counter application using **Google MediaPipe** and **OpenCV**
 ### Prerequisites
 ```bash
 pip install mediapipe opencv-python numpy
+
+### Clone the Repository
+```bash
+git clone https://github.com/amin636/hand-finger-counter-mediapipe.git
+cd hand-finger-counter-mediapipe
