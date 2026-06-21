@@ -2,6 +2,7 @@
 
 A real-time finger counter application using **Google MediaPipe** and **OpenCV**.
 
+![Demo](demo.gif)
 
 ## ✨ Features
 
